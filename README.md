@@ -32,20 +32,20 @@ Also college notification is included.
    
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshots/Screenshot%20(10).png?raw=true)
 
 
-https://raw.githubusercontent.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/main/Screenshot%20(10).png
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshots/Screenshot%20(10).png?raw=true)
 
 
 
-https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(17).png?raw=true
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(17).png?raw=true)
 
-https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(19).png?raw=true
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(19).png?raw=true)
 
-https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(21).png?raw=true
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(21).png?raw=true)
 
-https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(25).png?raw=true
+![App Screenshot](https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshot%20(25).png?raw=true)
 
 
 
