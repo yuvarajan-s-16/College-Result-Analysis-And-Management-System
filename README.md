@@ -35,7 +35,7 @@ Also college notification is included.
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-https://github.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/blob/main/Screenshots/Screenshot%20(10).png?raw=true
+https://raw.githubusercontent.com/yuvarajan-s-16/College-Result-Analysis-And-Management-System/main/Screenshot%20(10).png
 
 
 
